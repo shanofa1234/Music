@@ -20,7 +20,7 @@
 - **Backend**: Node.js, Express.js (if applicable)
 - **Database**: MongoDB (for mood logs and preferences)
 - **Authentication**: JWT or Firebase Auth
-- **APIs**: Spotify API or custom audio integration
+
 
 ---
 
